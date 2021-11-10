@@ -14,6 +14,12 @@
     display:flex;
     flex-wrap: wrap;
 }
+.content_2{
+    margin-left:0;
+    display:flex;
+    flex-wrap:wrap;
+}
+
 .box_1{
     line-height: 35px;
 }
@@ -23,8 +29,11 @@
     width:180px;
     height:150px;
 }
-.box_2{
-    margin-left: 300px;
-    display:flex;
-    flex-wrap: wrap;
+.border{
+    margin-left:250px;
+    padding-top:30px;
+    margin-bottom:20px;
+    border-bottom:1px solid black;
+    width:900px;
 }
+
