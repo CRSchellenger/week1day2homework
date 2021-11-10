@@ -1,0 +1,22 @@
+.navbar{
+    background-color:black;
+    color:white;
+    height:80px;
+    font-family: 'Roboto', sans-serif;
+    font-size:40px;
+    display: flex;
+    width:100%;    
+}
+a{
+    display: flex;
+    font-size: medium;
+    padding-left: 90px;
+    padding-top: 30px;
+    color:white;
+    text-decoration: none;
+}
+h5{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right:200px
+}
