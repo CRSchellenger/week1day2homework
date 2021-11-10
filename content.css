@@ -1,3 +1,12 @@
+.header{
+    background-image:url(https://www.thebeaverton.com/wp-content/uploads/2019/07/Depositphotos_75219085_s-2019-800x600.jpg);
+    display:flex;
+    justify-content:center;
+    color:white;
+    background-size:1000px;
+    height:900px;
+
+}
 #head_con{
     border: 1px solid black;
     border-bottom: none !important;
@@ -7,7 +16,8 @@
     font-weight: normal;
     margin-bottom:20px;
     padding-left: 50px;
-    width:1000px
+    width:1000px;
+    padding:top 10px;
 }
 .content{
     margin-left: 300px;
@@ -18,8 +28,8 @@
     margin-left:0;
     display:flex;
     flex-wrap:wrap;
+    
 }
-
 .box_1{
     line-height: 35px;
 }
@@ -30,7 +40,13 @@
     height:150px;
 }
 .border{
-    margin-left:250px;
+    margin-left:300px;
+    padding-top:30px;
+    margin-bottom:20px;
+    border-bottom:1px solid black;
+    width:900px;
+}
+.border_2{
     padding-top:30px;
     margin-bottom:20px;
     border-bottom:1px solid black;
